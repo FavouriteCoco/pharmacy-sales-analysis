@@ -18,7 +18,7 @@ This project analyzes pharmacy sales data to understand revenue trends, product 
 ---
 
 ## 📈 Dashboard Preview
-(Add image here)
+![Pharmacy Dashboard](pharmacy_dashboard.png)
 
 ---
 
